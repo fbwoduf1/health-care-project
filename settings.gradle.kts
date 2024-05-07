@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "health-care-project"
+rootProject.name = "testapi4"
 include(":app")
  
